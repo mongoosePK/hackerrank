@@ -1,6 +1,6 @@
 # day18.py
 # wpulkownik
-# 
+# this example uses a node structure to implement a stack and a queue
 
 import sys
 class Node:
